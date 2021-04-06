@@ -1,5 +1,10 @@
-### Hi there 👋
+![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)  
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/{ntbinh-stephen}/count.svg" />  
+</p>
+<h2>Hi there <img src="https://giphy.com/gifs/lee-min-ho-OZSPnYO9AEe9W" width="25px"></h2>
 
+<h3>Glad to see you here!</h3>  
 <!--
 **ntbinh-stephen/ntbinh-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
