@@ -1,10 +1,11 @@
 <!--
 ![Banner](https://wallpapercave.com/wp/wp2960877.jpg)  
 -->
-
+<!--
 <p align="center">   
   <img src="https://profile-counter.glitch.me/{ntbinh-stephen}/count.svg" />  
 </p>
+-->
 
 <h2>Hi there</h2>
 <img src="https://media.giphy.com/media/OZSPnYO9AEe9W/giphy.gif" width=150px>
