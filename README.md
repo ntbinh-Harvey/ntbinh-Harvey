@@ -12,7 +12,7 @@
 <h3>Glad to see you here!</h3>  
 
 
-- 🔭 I’m currently working on CMC Global
+<!-- - 🔭 I’m currently working on CMC Global  -->
 - 🌱 I’m currently learning Fullstack Web Developer
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with every new cool technologies
