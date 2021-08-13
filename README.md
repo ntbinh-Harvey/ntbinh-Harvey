@@ -8,11 +8,11 @@
 -->
 
 <h2>Hi there</h2>
-<img src="https://media.giphy.com/media/OZSPnYO9AEe9W/giphy.gif" width=150px>
+<!-- <img src="https://media.giphy.com/media/OZSPnYO9AEe9W/giphy.gif" width=150px> -->
 <h3>Glad to see you here!</h3>  
 
 
-<!-- - 🔭 I’m currently working on CMC Global  -->
+- 🔭 I’m currently working on Got It Vietnam
 - 🌱 I’m currently learning Fullstack Web Developer
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with every new cool technologies
