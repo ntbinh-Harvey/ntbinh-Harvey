@@ -12,7 +12,7 @@
 <h3>Glad to see you here!</h3>  
 
 
-- 🔭 I’m currently working on Got It Vietnam
+- 🔭 I’m currently working for Got It Vietnam as Software Engineer Intern
 - 🌱 I’m currently learning Fullstack Web Developer
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with every new cool technologies
