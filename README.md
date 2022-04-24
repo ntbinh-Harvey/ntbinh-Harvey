@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with every new cool technologies
 - 📫 How to reach me: Everyone can contact me through gmail: **binhnt07112420@gmail.com**
-- ⚡ My portfolio: **https://portfolio-harvey.pages.dev**
+<!-- - ⚡ My portfolio: **https://portfolio-harvey.pages.dev** -->
 <!--
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
